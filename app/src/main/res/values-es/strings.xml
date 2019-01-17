@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentoCriminal</string>
+    <string name="crime_title_hint">Introduzca un titilo para el crimen.</string>
+    <string name="crime_title_label">Titulo</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_solved_label">Sulucionado</string>
+    <string name="police_required_label">Polico Required</string>
+    <string name="jump_first_label">Jump to First</string>
+    <string name="jump_last_label">Jump to Last</string>
+    <string name="date_picker_title">Date of Crime:</string>
+    <string name="time_picker_title">Time of Crime:</string>
+    <string name="new_crime">Crimen Nuevo</string>
+    <string name="delete_crime">Delete Crime</string>
+    <string name="show_subtitle">Mostrar Subtitulos</string>
+    <string name="hide_subtitle">Esconder Subtitulos</string>
+    <string name="crime_suspect_text">Elegir Sospechoso</string>
+    <string name="crime_suspect_call">Call Suspect</string>
+    <string name="crime_report_text">Enviar el Informe del Crimen</string>
+    <string name="crime_report">%1$s!
+        el crimen fue descuberto %2$s. %3$s, y %4$s</string>
+    <string name="crime_report_solved">El caso esta resuelto</string>
+    <string name="crime_report_unsolved">El caso no esta resuelto</string>
+    <string name="crime_report_no_suspect">no hay sospechoso.</string>
+    <string name="crime_report_suspect">el/la sospechosos/a es %s.</string>
+    <string name="crime_report_subject">IntentoCriminal Informe del Crimen</string>
+    <string name="send_report">Enviar el informe del crimen a traves de</string>
+
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crimen</item>
+        <item quantity="other">%1$d crimenes</item>
+    </plurals>
+    <string name="empty_list_text">Esta no crimenes to display.</string>
+</resources>
